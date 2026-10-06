@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**HellNmc5/HellNmc5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет! Я HellNmc5
 
-Here are some ideas to get you started:
+Интересуюсь бэкенд-разработкой на Java и системным программированием на C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Стек
+Языки: Java · C++ · C# · SQL Инструменты: Git · Visual Studio · Linux / WSL Также: сети (Cisco: VLAN, OSPF, ACL), PostgreSQL, автоматизация на PowerShell
+
+Проекты
+
+miniC - Компилятор C-подобного языка в ассемблер x86 -> машинный код на C++ - Проект в работе
+
+Сейчас изучаются:
+Spring Boot, Kafka, Docker, OpenTelemetry
