@@ -15,5 +15,5 @@ miniC - Компилятор C-подобного языка в ассембле
 Spring Boot, Kafka, Docker, OpenTelemetry
 
 ## Контакты
-TG: https://t.me/HellNmc5
-GMAIL: hellnmc5@gmail.com
+*TG: https://t.me/HellNmc5
+*GMAIL: hellnmc5@gmail.com
