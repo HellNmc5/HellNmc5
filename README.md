@@ -6,12 +6,12 @@
 
 ## Стек
 **Языки:** Java · C++ · C# · SQL  
-**Инструменты:** Git · Visual Studio · Linux / WSL  
+**Инструменты:** Git · VS Code · CMake · Linux / WSL  
 **Также:** сети (Cisco: VLAN, OSPF, ACL), PostgreSQL, автоматизация на PowerShell
 
 ## Проекты
 
-miniC - Компилятор C-подобного языка в ассемблер x86 
+[miniC](https://github.com/HellNmc5/miniC) - Компилятор C-подобного языка в ассемблер x86 
 
 ## Контакты
 **TG**: https://t.me/HellNmc5  
